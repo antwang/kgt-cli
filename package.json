@@ -1,9 +1,9 @@
 {
   "name": "kgt-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple CLI for scaffolding Vue.js projects.",
   "bin": {
-    "kgt": "bin/kgt.js",
+    "kgt": "bin/kgt",
     "kgt-init": "bin/kgt-init"
   },
   "repository": {
