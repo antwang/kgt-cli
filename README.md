@@ -7,7 +7,7 @@
 全局安装：
 
 ```
-npm i kgt-cli
+npm i -g kgt-cli
 ```
 
 本地安装：
